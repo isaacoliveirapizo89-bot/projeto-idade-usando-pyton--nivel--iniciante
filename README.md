@@ -33,7 +33,7 @@ Utilizar Git e GitHub para versionamento.
 Evoluir como estudante de Desenvolvimento de Sistemas.
 ▶️ Como executar
 # Clone o repositório
-git clone https://github.com/SEU-USUARIO/Projeto_Idade.git
+git clone https://github.com/isaacoliveirapizo89-bot/Projeto_Idade.git
 
 # Entre na pasta
 cd Projeto_Idade
