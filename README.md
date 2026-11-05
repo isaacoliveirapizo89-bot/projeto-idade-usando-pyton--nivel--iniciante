@@ -1,82 +1,51 @@
-🐍 Projeto_Idade
+# 🐍 Projeto de Verificação de Idade
 
-Um projeto desenvolvido em Python para praticar lógica de programação e fortalecer os fundamentos da linguagem.
+Projeto iniciante desenvolvido em **Python** para praticar lógica de programação, entrada de dados e estruturas condicionais.
 
-📌 Sobre o projeto
+## 📌 Sobre o projeto
 
-O Projeto_Idade foi criado com o objetivo de colocar em prática conceitos essenciais do Python, como:
+O programa solicita a idade informada pelo usuário e utiliza uma condição para indicar se a pessoa é maior ou menor de idade.
 
-✅ Entrada e saída de dados
-✅ Variáveis
-✅ Operadores relacionais
-✅ Estruturas condicionais (if, else)
-✅ Lógica de programação
+A proposta é simples: transformar conceitos básicos estudados em sala de aula em um pequeno programa funcional.
 
-O programa solicita a idade do usuário e informa se ele é maior ou menor de idade, proporcionando uma forma simples de praticar tomada de decisões em código.
+## 🧠 Conceitos praticados
 
-🚀 Tecnologias Utilizadas
+- Variáveis
+- Entrada e saída de dados
+- Conversão de dados
+- Operadores relacionais
+- Estruturas condicionais (`if` e `else`)
+- Lógica de programação
 
-<div align="center">
+## 🛠️ Tecnologia
 
+- **Python**
 
+## ▶️ Como executar
 
+1. Tenha o Python instalado.
+2. Clone este repositório:
+   ```bash
+   git clone https://github.com/isaacoliveirapizo89-bot/projeto-idade-usando-pyton--nivel--iniciante.git
+   ```
+3. Abra a pasta do projeto no terminal.
+4. Execute o arquivo principal:
+   ```bash
+   python idade.py
+   ```
 
+> Se o arquivo principal tiver outro nome na sua versão local, substitua `idade.py` pelo nome correto.
 
+## 💡 Possíveis melhorias
 
-</div>
+- Validar entradas para impedir valores inválidos.
+- Tratar erros de digitação.
+- Melhorar as mensagens exibidas ao usuário.
+- Criar testes para diferentes idades.
 
-🎯 Objetivos
-Aprimorar a lógica de programação.
-Praticar estruturas condicionais.
-Desenvolver boas práticas de organização de código.
-Utilizar Git e GitHub para versionamento.
-Evoluir como estudante de Desenvolvimento de Sistemas.
-▶️ Como executar
-# Clone o repositório
-git clone https://github.com/isaacoliveirapizo89-bot/Projeto_Idade.git
+## 👨‍💻 Autor
 
-# Entre na pasta
-cd Projeto_Idade
+**Isaac Oliveira Pizo**  
+Estudante do Ensino Médio e do curso técnico em Desenvolvimento de Sistemas.
 
-# Execute o projeto
-python idade.py
-📚 O que aprendi
-
-Durante este projeto, reforcei conhecimentos importantes para o desenvolvimento de software, como:
-
-Organização de projetos;
-Escrita de código limpo;
-Uso de estruturas condicionais;
-Versionamento com Git e GitHub.
-
-Cada projeto representa um passo na minha evolução como desenvolvedor.
-
-📈 Próximas melhorias
-
-Validar entradas do usuário.
-
-Tratar erros com try e except.
-
-Criar interface gráfica.
-
-Melhorar a experiência do usuário.
-
-Adicionar testes automatizados.
-
-👨‍💻 Desenvolvedor
-
-Isaac Oliveira Pizo
-
-🎓 Estudante de Desenvolvimento de Sistemas
-
-💻 Apaixonado por tecnologia, programação e aprendizado contínuo.
-
-📌 Estou em busca da minha primeira oportunidade na área de TI, onde possa aprender com profissionais experientes, contribuir com a equipe e evoluir como desenvolvedor.
-
-<div align="center">
-
-⭐ Obrigado por visitar este projeto!
-
-Se este repositório foi útil ou interessante, considere deixar uma ⭐.
-
-</div>
+Projeto desenvolvido para fins de estudo e prática de programação.
